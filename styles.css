@@ -245,17 +245,16 @@ main {
 
 /* Project section */
 .project {
-    padding: 60px 0;
+    padding: 100px 0;
     text-align: center;
 }
 
 .project h2 {
-    font-size: 20px;
-    margin-bottom: 40px;
+    font-size: 24px;
+    margin-bottom: 60px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: 'Lexend', sans-serif;
-    line-height: 1.4;
 }
 
 .project h2 br {
@@ -275,18 +274,20 @@ main {
 
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 0px;
-    max-width: 1200px;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 5px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
 .project-item {
     position: relative;
-    aspect-ratio: 1;
+    aspect-ratio: 17/9;
     overflow: hidden;
-    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
 }
 
 .project-image {
@@ -294,7 +295,7 @@ main {
     height: 100%;
     background-size: cover;
     background-position: center;
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
 }
 
 .project-item:hover .project-image {
