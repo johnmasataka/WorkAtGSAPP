@@ -82,7 +82,7 @@ const languageContent = {
         instagram: "Instagram",
         linkedin: "LinkedIn",
         // Main content
-        concept: "존 마사타카 시안펑 장의 컬럼비아 대학교 GSAPP 작품",
+        concept: "존 마사타카 시안펑 장의 컬럼비아 대학교 작품",
         // conceptDetail: "장소의 잠재력을 최대화하기 위해서는 단순히 '상자'를 제공하는 것만으로는 충분하지 않습니다. 우리는 각 건물이 자신만의 이야기를 갖도록 '콘텐츠'를 제안합니다. 'SHARE' 프로젝트를 중심으로 일본 전역에서 다양한 규모와 프로그램으로 사업을 발전시킬 것입니다.",
         profile: "프로필",
         project: "프로젝트<br>(컬럼비아 대학교 작품 중)",
@@ -106,7 +106,7 @@ const languageContent = {
         instagram: "Instagram",
         linkedin: "LinkedIn",
         // Main content
-        concept: "蒋贤峰在哥伦比亚大学GSAPP的作品",
+        concept: "蒋贤峰在哥伦比亚大学的作品",
         // conceptDetail: "要最大化一个地方的潜力，仅仅提供一个'盒子'是不够的。我们提出'内容'，使每个建筑都有自己的故事。以'SHARE'项目为中心，我们将在日本各地开展各种规模和项目的业务。",
         profile: "简介",
         project: "项目<br>(仅限哥伦比亚大学期间)",
