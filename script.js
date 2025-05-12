@@ -35,7 +35,7 @@ const languageContent = {
         linkedin: "LinkedIn",
         // Main content
         concept: "ジョン・賢峰・蔣\nコロンビア大学での作品",
-        conceptDetail: "To maximize the potential of a place, simply providing a 'box' is not enough. We propose 'content' that makes each building have its own story. Centered around the 'SHARE' project, we will develop our business with a range of sizes and programs all over Japan.",
+        // conceptDetail: "To maximize the potential of a place, simply providing a 'box' is not enough. We propose 'content' that makes each building have its own story. Centered around the 'SHARE' project, we will develop our business with a range of sizes and programs all over Japan.",
         profile: "プロフィール",
         project: "プロジェクト<br>(コロンビア大学での作品のみ)",
         // shareProject: "SHAREプロジェクトとは",
@@ -59,7 +59,7 @@ const languageContent = {
         linkedin: "LinkedIn",
         // Main content
         concept: "El trabajo de John Masataka Xianfeng Jiang en la Universidad de Columbia GSAPP",
-        conceptDetail: "Para maximizar el potencial de un lugar, simplemente proporcionar una 'caja' no es suficiente. Proponemos 'contenido' que hace que cada edificio tenga su propia historia. Centrados en el proyecto 'SHARE', desarrollaremos nuestro negocio con una variedad de tamaños y programas en todo Japón.",
+        // conceptDetail: "Para maximizar el potencial de un lugar, simplemente proporcionar una 'caja' no es suficiente. Proponemos 'contenido' que hace que cada edificio tenga su propia historia. Centrados en el proyecto 'SHARE', desarrollaremos nuestro negocio con una variedad de tamaños y programas en todo Japón.",
         profile: "PERFIL",
         project: "PROYECTOS<br>(seleccionados de la Universidad de Columbia)",
         // shareProject: "¿Qué es el Proyecto SHARE?",
@@ -83,7 +83,7 @@ const languageContent = {
         linkedin: "LinkedIn",
         // Main content
         concept: "존 마사타카 시안펑 장의 컬럼비아 대학교 GSAPP 작품",
-        conceptDetail: "장소의 잠재력을 최대화하기 위해서는 단순히 '상자'를 제공하는 것만으로는 충분하지 않습니다. 우리는 각 건물이 자신만의 이야기를 갖도록 '콘텐츠'를 제안합니다. 'SHARE' 프로젝트를 중심으로 일본 전역에서 다양한 규모와 프로그램으로 사업을 발전시킬 것입니다.",
+        // conceptDetail: "장소의 잠재력을 최대화하기 위해서는 단순히 '상자'를 제공하는 것만으로는 충분하지 않습니다. 우리는 각 건물이 자신만의 이야기를 갖도록 '콘텐츠'를 제안합니다. 'SHARE' 프로젝트를 중심으로 일본 전역에서 다양한 규모와 프로그램으로 사업을 발전시킬 것입니다.",
         profile: "프로필",
         project: "프로젝트<br>(컬럼비아 대학교 작품 중)",
         // shareProject: "SHARE 프로젝트란?",
@@ -107,9 +107,9 @@ const languageContent = {
         linkedin: "LinkedIn",
         // Main content
         concept: "蒋贤峰在哥伦比亚大学GSAPP的作品",
-        conceptDetail: "要最大化一个地方的潜力，仅仅提供一个'盒子'是不够的。我们提出'内容'，使每个建筑都有自己的故事。以'SHARE'项目为中心，我们将在日本各地开展各种规模和项目的业务。",
+        // conceptDetail: "要最大化一个地方的潜力，仅仅提供一个'盒子'是不够的。我们提出'内容'，使每个建筑都有自己的故事。以'SHARE'项目为中心，我们将在日本各地开展各种规模和项目的业务。",
         profile: "简介",
-        project: "项目<br>(哥伦比亚大学作品)",
+        project: "项目<br>(仅限哥伦比亚大学期间)",
         // shareProject: "什么是SHARE项目",
         shareProjectDetail: "该项目始于神乐坂住宅区矢来町的'SHAREyaraicho'。我们的动机是通过创建一系列共享住宅来振兴东京看不见的社区。在我们的SHARE项目中，每个共享住宅除了客厅、淋浴间、厕所、洗衣房和工作空间外，还有非常独特的公共空间。",
         // About section
@@ -131,9 +131,9 @@ const languageContent = {
         linkedin: "LinkedIn",
         // Main content
         concept: "蔣賢峰在哥倫比亞大學的作品",
-        conceptDetail: "要最大化一個地方的潛力，僅僅提供一個'盒子'是不夠的。我們提出'內容'，使每個建築都有自己的故事。以'SHARE'項目為中心，我們將在日本各地開展各種規模和項目的業務。",
+        // conceptDetail: "要最大化一個地方的潛力，僅僅提供一個'盒子'是不夠的。我們提出'內容'，使每個建築都有自己的故事。以'SHARE'項目為中心，我們將在日本各地開展各種規模和項目的業務。",
         profile: "簡介",
-        project: "案子<br>(哥倫比亞大學作品)",
+        project: "作品<br>(哥倫比亞大學)",
         // shareProject: "什麼是SHARE項目",
         shareProjectDetail: "該項目始於神樂坂住宅區矢來町的'SHAREyaraicho'。我們的動機是通過創建一系列共享住宅來振興東京看不見的社區。在我們的SHARE項目中，每個共享住宅除了客廳、淋浴間、廁所、洗衣房和工作空間外，還有非常獨特的公共空間。",
         // About section
