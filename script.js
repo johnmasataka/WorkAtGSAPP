@@ -42,7 +42,7 @@ const languageContent = {
         // shareProjectDetail: "神楽坂の住宅地、矢来町にある「SHAREyaraicho」からはじまったプロジェクト。シェアハウスを通して、東京の見えなくなってしまったコミュニティを再び可視化させたい思いから始動。どの家も、プライベートな部屋のほかに、リビングやシャワー、トイレ、ランドラリー、ワーキングスペースなどの様々なコモンスペースを持つのが特徴。",
         // About section
         aboutTitle: "ジョン・賢峰・蔣",
-        aboutContent: "蔣はニューヨークと東京を拠点とする建築家、AI研究者、プロジェクトマネージャー。<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建築都市設計事務所</a> (KKAA) にてマネージャーを務め、高層集合住宅、リゾート、個人住宅、高級家具など、幅広い分野のプロジェクトに携わる。キャリアの中心にあるのは、マネジメント・テクノロジー・デザインの三領域をまたぐ横断的な実践。また、コロンビア大学の<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">空間研究センター（Center for Spatial Research）</a>に所属し、<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建築学会</a>正会員。蔣は<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">コロンビア大学</a>でコンピューティション学科卒業、<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大学</a>で建築学科修了。",
+        aboutContent: "蔣（ジャン）賢峰（マサタカ）はニューヨークと東京を拠点とする建築家、AI研究者、プロジェクトマネージャー。<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建築都市設計事務所</a> (KKAA) にてマネージャーを務め、高層集合住宅、リゾート、個人住宅、高級家具など、幅広い分野のプロジェクトに携わる。キャリアの中心にあるのは、マネジメント・テクノロジー・デザインの三領域をまたぐ横断的な実践。また、コロンビア大学の<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">空間研究センター（Center for Spatial Research）</a>に所属し、<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建築学会</a>正会員。蔣は<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">コロンビア大学</a>でコンピューティション学科卒業、<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大学</a>で建築学科修了。",
         // Footer
         copyright: "Copyright © - All Rights Reserved."
     },
@@ -114,7 +114,7 @@ const languageContent = {
         // shareProjectDetail: "该项目始于神乐坂住宅区矢来町的'SHAREyaraicho'。我们的动机是通过创建一系列共享住宅来振兴东京看不见的社区。在我们的SHARE项目中，每个共享住宅除了客厅、淋浴间、厕所、洗衣房和工作空间外，还有非常独特的公共空间。",
         // About section
         aboutTitle: "蒋贤峰",
-        aboutContent: "蒋贤峰，字君安 (John)，是一位常驻纽约和东京的建筑师、AI研究员和项目经理。他在<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建筑都市设计事务所（KKAA）</a>拥有超过八年的专业经验，曾领导团队完成各种项目，包括豪华塔楼、度假村、私人住宅和高端家具。他的职业生涯专注于管理、技术和设计。他还在<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥伦比亚大学空间研究中心（CSR）</a>工作，并且是<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建筑学会（AIJ）</a>的成员。蒋贤峰在<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥伦比亚大学</a>获得计算学硕士学位，在<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大学</a>获得建筑学硕士学位。",
+        aboutContent: "蒋贤峰 (Xianfeng)，字君安 (John)，是一位常驻纽约和东京的建筑师、AI研究员和项目经理。他在<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建筑都市设计事务所（KKAA）</a>拥有超过八年的专业经验，曾领导团队完成各种项目，包括豪华塔楼、度假村、私人住宅和高端家具。他的职业生涯专注于管理、技术和设计。他还在<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥伦比亚大学空间研究中心（CSR）</a>工作，并且是<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建筑学会（AIJ）</a>的成员。蒋贤峰在<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥伦比亚大学</a>获得计算学硕士学位，在<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大学</a>获得建筑学硕士学位。",
         // Footer
         copyright: "版权所有 © - 保留所有权利。"
     },
@@ -123,7 +123,7 @@ const languageContent = {
         // Navigation
         top: "首頁",
         // news: "新聞",
-        work: "案子",
+        work: "作品",
         about: "關於",
         contact: "聯繫",
         map: "地圖",
@@ -138,7 +138,7 @@ const languageContent = {
         // shareProjectDetail: "該項目始於神樂坂住宅區矢來町的'SHAREyaraicho'。我們的動機是通過創建一系列共享住宅來振興東京看不見的社區。在我們的SHARE項目中，每個共享住宅除了客廳、淋浴間、廁所、洗衣房和工作空間外，還有非常獨特的公共空間。",
         // About section
         aboutTitle: "蔣賢峰",
-        aboutContent: "蔣賢峰，字君安（John），是一位長期居住於紐約與東京的建築師、AI 研究員以及專案經理。他在<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建築都市設計事務所（KKAA）</a>擁有超過八年的專業經驗，曾領導團隊完成多項專案，包括豪華高樓、度假村、私人住宅與高端家具設計。他的職涯專注於管理、技術與設計三大領域。他亦曾於<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥倫比亞大學空間研究中心（CSR）</a>工作，並為<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建築學會（AIJ）</a>的成員。蔣賢峰擁有<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥倫比亞大學</a>計算學碩士學位，以及<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大學</a>建築學碩士學位。",
+        aboutContent: "蔣賢峰 (Masataka)，字君安（John），是一位長期居住於紐約與東京的建築師、AI 研究員以及專案經理。他在<a href=\"https://kkaa.co.jp/en/\" target=\"_blank\" style=\"color: inherit;\">隈研吾建築都市設計事務所（KKAA）</a>擁有超過八年的專業經驗，曾領導團隊完成多項專案，包括豪華高樓、度假村、私人住宅與高端家具設計。他的職涯專注於管理、技術與設計三大領域。他亦曾於<a href=\"https://c4sr.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥倫比亞大學空間研究中心（CSR）</a>工作，並為<a href=\"https://www.aij.or.jp/aijhome.htm\" target=\"_blank\" style=\"color: inherit;\">日本建築學會（AIJ）</a>的成員。蔣賢峰擁有<a href=\"https://www.arch.columbia.edu/\" target=\"_blank\" style=\"color: inherit;\">哥倫比亞大學</a>計算學碩士學位，以及<a href=\"https://www.global.hokudai.ac.jp/\" target=\"_blank\" style=\"color: inherit;\">北海道大學</a>建築學碩士學位。",
         // Footer
         copyright: "版權所有 © - 保留所有權利。"
     }
